@@ -10,7 +10,7 @@ __pycache__/
 .vscode/
 .idea/
 
-# Environment and secrets
+# Secrets
 .env
 .env.*
 
