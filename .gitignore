@@ -1,0 +1,18 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
